@@ -7,7 +7,8 @@ Implemented algorithms:
 3. Quick Sort
 4. Selection Sort
 5. Insertion Sort
-
+ 
+---------------------------------------------------------------------------------
 Features:
 1. Colored representation of step being executed.
    1.1) Blue: Default
